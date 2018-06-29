@@ -2,7 +2,7 @@
 
 El objetivo de este repositorio es realizar implementaciones en java de los patrones de diseño explicados en el libro *"Patrones de Diseño"* de Erich Gamma.
 
-######Catálogo de patrones que se implementaran
+###### Catálogo de patrones que se implementaran
 
 1. Patrones de Creacion
 	1. [Abstract Factory](https://github.com/alioth865/Patrones-De-Diseno)
